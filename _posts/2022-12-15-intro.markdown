@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Intro"
+date:   2022-12-15 20:05:48 +0100
+categories: varia
+---
+Pensando al concetto di `struttura` musicale, una `intro` dovrebbe portare sempre a qualcosa di concreto. Tuttavia nella vaghezza e nel mistero risiede il vero potere della `musica`, capace di elevare le anime così come sotterrare i bassi istinti degli esseri umani. 
+
+La funzione principale della `musica` è quella di sottrarci dal `loop` che abbiamo interiorizzato da bambini nella scuola della `propaganda` capitalista:
+
+{% highlight ruby %}
+def vita(nome)
+  while nome produce:
+    consuma
+  crepa
+end
+{% endhighlight %}
+
+E se ascoltando con attenzione fossimo in grado di liberarci dall'aggressione semiotica dei professionisti della `propaganda`?
