@@ -4,9 +4,9 @@ title:  "Intro"
 date:   2022-12-15 20:05:48 +0100
 categories: varia
 ---
-Pensando al concetto di `struttura` musicale, una `intro` dovrebbe portare sempre a qualcosa di concreto. Tuttavia nella vaghezza e nel mistero è celato il vero potere della `musica`, l'unica arte umana capace di accompagnare con grazia lo spirito alle soglie del sublime così come di amplificare i nostri istinti animali primordiali, spesso nello stesso tempo. 
+Pensando al concetto di `struttura` musicale, una `intro` dovrebbe portare sempre a qualcosa di concreto. Tuttavia nella vaghezza e nel mistero è celato il vero potere della `musica`, l'unica arte umana capace di accompagnare con grazia l'intelletto alle soglie del sublime così come di amplificare gli istinti animali primordiali, spesso contemporaneamente. 
 
-La funzione principale della `musica` è quella di sottrarci dal `loop` che abbiamo interiorizzato da bambini nella scuola della `propaganda` capitalista:
+La funzione principale della `musica` è quella di sottrarci dal `loop` che abbiamo interiorizzato da bambini nella scuola della `propaganda` neocapitalista:
 
 {% highlight ruby %}
 def vita(nome)
@@ -16,4 +16,6 @@ def vita(nome)
 end
 {% endhighlight %}
 
-E se ascoltando con attenzione fossimo in grado di liberarci dall'aggressione semiotica dei professionisti della `propaganda`?
+E se ascoltando con l'attenzione della mente e del corpo fossimo in grado di riconoscere nella musica quei `personaggi concettuali` che abitano il nostro inconscio, i nostri sogni e il nostro sentire comune? Potremo forse per loro tramite liberare il `piano d'immanenza` dall'aggressione semiotica dei sacerdoti nichilisti del `profitto` e sviluppare una nuova scienza del libero pensiero, combattendo `l'omogeneizzato` di umanità a base di odio e ipocrisia che sembra non avere alternative?
+
+Quando si resta immobili il `male` vince sempre. Il futuro è un passo di `danza`.
