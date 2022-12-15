@@ -6,6 +6,6 @@ permalink: /about/
 
 Musica Mundana.  
 
-Musica Humana: [sampleme.info](https://sampleme.info/) / [SoundCloud](https://soundcloud.com/sampleme)  
+Musica Humana: <a href="https://sampleme.info/" target="_blank">sampleme.info</a> / <a href="https://soundcloud.com/sampleme" target="_blank">SoundCloud</a>
 
 ![tamburo](/tamburo300px.jpg)  
