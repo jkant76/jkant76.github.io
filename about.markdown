@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 Musica Mundana.  
+Pensieri e parole di Giuliano Cantini.
 
-Musica Humana: <a href="https://sampleme.info/" target="_blank">sampleme.info</a> / <a href="https://soundcloud.com/sampleme" target="_blank">SoundCloud</a>
+Musica Humana: <a href="https://soundcloud.com/sampleme" target="_blank">SoundCloud</a>
 
 ![tamburo](/tamburo300px.jpg)  
