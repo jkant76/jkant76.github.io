@@ -6,7 +6,6 @@ permalink: /about/
 
 Musica Mundana, letture e altre speculazioni.  
 Pensieri e parole di Giuliano Cantini.
-Test
 
 Musica Humana: <a href="https://soundcloud.com/sampleme" target="_blank">SoundCloud</a>
 
